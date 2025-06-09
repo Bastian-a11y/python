@@ -1,1 +1,4 @@
-print("hola Mundo")
+
+
+def saludo():
+    print("hola Mundo")
